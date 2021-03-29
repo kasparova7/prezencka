@@ -3,7 +3,7 @@
 ### Úkol 1
 * Naklonujte si obsah tohoto repozitáře.
   ```
-  git clone https://github.com/KJureckova/prezencka.git
+  git clone https://github.com/jakubhejc/prezencka.git
   ```
 * V pracovním adresáři repozitáře vytvořte prázdný textový soubor a uložte ho pod svým jménem `jmeno_prijmeni.txt`. Nepoužívejte diaktritiku.
 * Vytvořte novou revizi.
